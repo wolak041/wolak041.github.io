@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7fd58586b7775e281a4b14c60264b1c2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.67abf343c2ed5c30e0c1840292f5c062.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.8906da052648a023ba76d9d63b427d9a.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.836e5b57b87e8cb90837db8358d920fa.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.11e1efed8f6dbb58b15bcfffd78fdbd9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.35ae95b89e95aa28c5fd2ff6a3078d6e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Chirper",
+  "short_name": "Chirper",
+  "orientation": "portrait-primary",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Social platform",
+  "background_color": "#092429",
+  "theme_color": "#000000"
+}
